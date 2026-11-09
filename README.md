@@ -6,7 +6,7 @@
 
 ## Project overview
 
-This capstone project examines sales, customer behaviour, product performance and profitability for a national retail chain. The aim was to turn a multi-table retail dataset into actionable insights for business leaders, store managers and marketing teams—not just build charts.
+This capstone project examines sales, customer behaviour, product performance and profitability for a national retail chain. The aim was to turn a multi-table retail dataset into actionable insights for business leaders, store managers and marketing teams; not just build charts.
 
 **Scope:** 5,000 transactions, 200 customers, 50 products and five stores, with transaction dates from **September 10, 2023 through September 9, 2025**.
 
@@ -141,4 +141,4 @@ The raw and transaction-level datasets are not included in this repository. The 
 
 ---
 
-*This project was completed as a business intelligence capstone case study.*
+*This project was completed as a business intelligence capstone case study supported by NPower Canada 2026 Cohort.*
